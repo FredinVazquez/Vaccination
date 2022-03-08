@@ -22,5 +22,5 @@ Práctica correspondiente al tema de CSS.<br>
   <li><a href='https://logo-base.com/logo/astrazeneca_logo.png'>AstraZeneca Logo</a></li>
   <li><a href='https://es.wikipedia.org/wiki/Archivo:Pfizer_(2021).svg'>Pfizer Logo</a></li>
   <li><a href='https://es.wikipedia.org/wiki/Archivo:Moderna_logo.svg'>Moderna Logo</a></li>
-  
+  <li><a href='https://www.freepik.com/photos/woman-phone'>Woman phone photo created by fabrikasimf - www.freepik.com</a></li>
   </ul>
