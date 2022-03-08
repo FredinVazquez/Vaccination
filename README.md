@@ -18,4 +18,6 @@ Práctica correspondiente al tema de CSS.<br>
   
   <li><a href='https://www.freepik.com/photos/man-mask'>Man mask photo created by mdjaff - www.freepik.com</a></li>
   <li><a href='https://upload.wikimedia.org/wikipedia/commons/8/85/Sinovac_logo.svg'>Sinovac Logo</a></li>
+  <li><a href='https://logo-base.com/logo/astrazeneca_logo.png'>AstraZeneca Logo</a></li>
+  
   </ul>
