@@ -16,6 +16,6 @@ Práctica correspondiente al tema de CSS.<br>
 <h2>Referencias</h2>
 <ul>
   
+  <li><a href='https://www.freepik.com/photos/man-mask'>Man mask photo created by mdjaff - www.freepik.com</a></li>
   <li></li>
-  
   </ul>
