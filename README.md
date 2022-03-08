@@ -17,5 +17,5 @@ Práctica correspondiente al tema de CSS.<br>
 <ul>
   
   <li><a href='https://www.freepik.com/photos/man-mask'>Man mask photo created by mdjaff - www.freepik.com</a></li>
-  <li></li>
+  <li><a href='https://upload.wikimedia.org/wikipedia/commons/8/85/Sinovac_logo.svg'>Sinovac Logo</a></li>
   </ul>
