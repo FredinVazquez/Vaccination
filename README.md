@@ -2,13 +2,16 @@
 <p>
 Práctica correspondiente al tema de CSS.<br>
   La práctica de esta ocasión trata de realizar una clonación de una página web con temática de vacunación, entonces al tratarse de una clonación se deberá de tratar de replicar lo más cercano la estructura y estilos de la página, también se menciona que es posible agregar cosas, lo que salga de la imaginación, pero la idea central sigue siendo clonar dicha página.
-</p<
+</p>
   
 <h2>Vinculos de las actividades realizadas</h2>
 
 <ul>
   
-  <li></li>
+  <li><a href='https://www.canva.com/design/DAE7c6y_cTw/K03cavu-bWGiaq4JSstpUA/edit?utm_content=DAE7c6y_cTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>Infografía para dar a conocer la página - Mercadotecnia</a></li>
+  <li><a href='https://fredinvazquez.github.io/Vaccination_LaunchX/VaccinationHomePage-Maquetacion.html'>Maqueta de página . Vaccination</a></li>
+  <li><a href='https://fredinvazquez.github.io/Vaccination_LaunchX/VaccinationHomePage.html'>Página clonada (con estilos) - Vaccination</a></li>
+  
   
   </ul>
 
